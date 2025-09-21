@@ -1,0 +1,4 @@
+librosa==0.7.0
+numpy==1.21.6
+opencv-contrib-python>=4.2.0.34
+tqdm==4.45.0
